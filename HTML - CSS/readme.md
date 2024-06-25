@@ -1,0 +1,1 @@
+Olá, aqui estão hospedados alguns exercícios praticando HTML, CSS e JavaScript
